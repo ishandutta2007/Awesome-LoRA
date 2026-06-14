@@ -27,8 +27,8 @@ The most prominent variants include:
 | **Tied-LoRA** | Employs weight tying across parameters to increase efficiency and avoid overfitting. | 2023 | [arXiv:2311.09578](https://arxiv.org/abs/2311.09578) |
 
 ## References and Resources
-* [arXiv Unified Study of LoRA Variants](https://arxiv.org)
-* [NVIDIA's DoRA Overview](https://nvidia.com)
+* [arXiv Unified Study of LoRA Variants](https://arxiv.org/abs/2601.22708)
+* [NVIDIA's DoRA Overview](https://developer.nvidia.com/blog/introducing-dora-a-high-performing-alternative-to-lora-for-fine-tuning/)
 
 
 ## 📈 Star History
