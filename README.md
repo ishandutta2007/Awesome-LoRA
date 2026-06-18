@@ -79,3 +79,4 @@ This repository tracks the evolution of LoRA, from memory-optimized quantization
     </picture>
    </a>
 </div>
+- [SRKL-Optimizer](https://github.com/Nossari/SRKL-Optimizer) - A second-order curvature optimizer using Kinetic-Braking to reduce VRAM overhead.
